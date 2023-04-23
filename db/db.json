@@ -1,0 +1,173 @@
+{
+  "user": [
+    {
+      "name": "anil",
+      "email": "anil@test",
+      "password": "abc@123"
+    },
+    {
+      "id": "e5febc72-5951-4bdb-be7e-b147099a3f10",
+      "email": "donu@test.com",
+      "password": "donu123",
+      "name": "Donu"
+    },
+    {
+      "id": "88261ff0-f246-4cb3-9133-8e04947076dc",
+      "email": "serah@test.com",
+      "password": "serah@123",
+      "name": "Serah"
+    },
+    {
+      "id": "92e1e2ef-1755-443f-8af0-b4c17422a046",
+      "email": "ruby@test.com",
+      "password": "ruby@123",
+      "name": "Ruby"
+    },
+    {
+      "id": "10bdcd2e-5182-4f5e-97ef-5c844bd552ca",
+      "email": "joe@test.com",
+      "password": "joe@123",
+      "name": "Joe"
+    },
+    {
+      "id": "e7eddfaa-2fb7-40e3-93f6-e8070933d424",
+      "email": "james@test.com",
+      "password": "james@123",
+      "name": "James"
+    },
+    {
+      "id": "75cedb06-6396-49f6-82d4-abd42f3fbc9a",
+      "email": "alice@test.com",
+      "password": "alice@123",
+      "name": "Alice"
+    },
+    {
+      "id": "593bc255-0e2e-4676-903f-b7bc2f5a8003",
+      "email": "rayan@test.com",
+      "password": "rayan@123",
+      "name": "Rayan"
+    },
+    {
+      "id": "e7769371-c56a-40af-bfe5-1f2048b52bda",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "d41a7534-d520-437e-a868-733f8ae4166d",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "43790655-aabc-4661-bbee-a6fbb888c63c",
+      "email": "abc@test.com",
+      "password": "abc@123",
+      "name": ""
+    },
+    {
+      "id": "01c891a8-e0fd-4d3a-9ad7-c10e19137a98",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "f36f937c-6460-4c9a-a02a-054478d97c83",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "a19ff074-ac91-48f4-9592-113dd0a2b43d",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "104561e3-61cb-4a92-a309-aa0948c713d2",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "95e1db77-6265-4c5c-841f-27d05747bc83",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "080e711d-d270-4461-960b-5d4ed2c7e825",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "951e4345-cab1-4ae6-9494-e9fe872081f5",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "d067a505-7bb1-43d0-b401-6cbbb8fe3015",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": "Donu"
+    },
+    {
+      "id": "76da4fd7-2239-4e66-98f5-952090081482",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": ""
+    },
+    {
+      "id": "3beb70bd-94b5-4c64-9d4f-2d64ad5096b6",
+      "email": "hema@shellsquare.com",
+      "password": "hema@123",
+      "name": "Hema"
+    },
+    {
+      "id": "9c1b4c44-87fa-4758-b82a-a330d9c2e0d5",
+      "email": "anu@gmail.com",
+      "password": "Sujith@123",
+      "name": "Anu"
+    },
+    {
+      "id": "949a2307-cb61-4b90-85ae-1ae350ffada3",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": "Dev"
+    },
+    {
+      "id": "fbfbf44e-e989-48a8-b122-428c78070408",
+      "email": "Sujith@shellsquare.com",
+      "password": "Sujith@123",
+      "name": "123"
+    },
+    {
+      "id": "5b30138b-91db-4443-a588-604a81a97c8f",
+      "email": "dfff",
+      "password": "Sujith@123",
+      "name": "asdf"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "2",
+      "name": "Dominos",
+      "address": "Gurgaon sector 50",
+      "contact": "5555"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "contact": "3333",
+      "address": "Delgi cp"
+    },
+    {
+      "id": "04ead45f-2b50-4778-98eb-55ceed667b6b",
+      "name": "Dominos",
+      "address": "kkkkk",
+      "contact": "55555"
+    }
+  ]
+}
